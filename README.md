@@ -16,5 +16,32 @@ Este proyecto me permitió reforzar conceptos fundamentales de **C**, como punte
 
 ## ⚙️ Cómo compilar
 Todos los proyectos de 42, incluyendo **libft**, se **compilan usando su Makefile**:  
+
+- **Compilado estándar:**  
 ```bash
 make
+```
+
+Compilado con bonus:
+```
+make bonus
+```
+
+Recompilar:
+```
+make re
+```
+
+Limpiar archivos objeto:
+```
+make clean
+```
+
+Limpiar archivos objeto y biblioteca compilada:
+``` 
+make fclean
+```
+
+bash
+Copiar código
+make fclean
