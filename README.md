@@ -41,7 +41,3 @@ Limpiar archivos objeto y biblioteca compilada:
 ``` 
 make fclean
 ```
-
-bash
-Copiar código
-make fclean
